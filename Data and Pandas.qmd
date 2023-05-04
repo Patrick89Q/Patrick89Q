@@ -1,0 +1,18 @@
+---
+title: "Data and Pandas"
+format: html
+---
+
+## Introduction on Pandas
+
+```{python}
+import pandas as pd
+import seaborn as sn
+import tensorflow as tf
+
+# dataset= pd.read_stata("")
+
+```
+
+
+## Pandas Functions
